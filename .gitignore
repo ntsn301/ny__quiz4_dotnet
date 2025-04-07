@@ -1,0 +1,13 @@
+# Visual Studio temporary files
+.vs/
+
+# Build artifacts
+obj/
+bin/
+
+# Other common .NET ignores
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
